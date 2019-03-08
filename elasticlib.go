@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/audio35444/lib-elasitc/config"
-	"github.com/audio35444/lib-elasitc/domain"
+	"github.com/audio35444/elasticlib/config"
+	"github.com/audio35444/elasticlib/domain"
 )
 
 func SetBaseEndpoint(url, port string) {

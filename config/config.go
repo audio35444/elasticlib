@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/audio35444/lib-elasitc/domain"
+	"github.com/audio35444/elasticlib/domain"
 )
 
 /*
